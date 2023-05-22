@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 from_root
 imbalanced-learn
--e .
+xgboost
+# -e .
