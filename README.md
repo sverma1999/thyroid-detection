@@ -1,5 +1,9 @@
 # **Thyroid-detection**
 
+**Current project status:**
+```diff
+! In Progress
+```
 ## Problem Statement
 
 The goal of this project is to build a classification model that accurately predicts the type of thyroid based on a given set of features from thyroid patients. The provided training data includes information about various patient characteristics. The model needs to classify each patient into one of the thyroid types, enabling accurate diagnosis and appropriate treatment planning.
